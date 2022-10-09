@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ving</h1>
+<h1 align="center">Hey 👋, I'm Ving</h1>
 <h3 align="center">Not the chosen one !</h3>
 
 - 🌱 I’m currently learning **Mathematics and Informatics in HUS**
