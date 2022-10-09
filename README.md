@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Mathematics and Informatics in HUS
+- 🔭 I’m currently learning Mathematics and Informatics in HUS
 
 <!--
 **Ving2k2/Ving2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
